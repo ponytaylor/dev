@@ -1,0 +1,30 @@
+Mercury: USGS
+From Mariner 10 images, processed at the USGS. Data only from 10 to 180 degrees west longitude. 
+Venus: JPL
+Stitched from Magellan RADAR imagery. Gaps filled in with Pioneer and Venera images. 
+Earth: USGS
+Nice topo-like map colored by land/ocean from the USGS.
+Mars: USGS
+From Viking images, processed at the USGS. Available at resolutions up to 64 pix/deg by request. 
+Jupiter: Thomas/Hastings-Trew
+Shamelessly copied from C. Thomas' Planetary Maps home page
+Saturn: JPL
+A storm or two; completely fictional. 
+Don Davis  JPL/Caltech
+Uranus: fictional
+Shamelessly copied and slightly processed from C. Thomas' Planetary Maps home page. 
+Neptune: fictional
+Shamelessly copied from C. Thomas' Planetary Maps home page. 
+Pluto: Buie/Stern
+Nearly global texture map based on Hubble imagery, from PRC96-09b. Courtesy of Dr. Alan Stern (SwRI) and Marc Buie (Lowell Obs.). 
+
+yale2.tiff star map
+From the Tycho star catalog, 9110 stars. 
+hipp2.tiff
+From the Hipparcos star catalog, 118,000 stars. 
+
+JPL owned images must be accompanied by:
+Courtesy Jet Propulsion Laboratory. Copyright (c) California Institute of Technology, Pasadena, CA. All rights reserved. Based on government-sponsored research under contract NAS7-1407.
+
+download page:
+http://maps.jpl.nasa.gov/
